@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=ffffff) 
+
 <!--
 **vosmol/vosmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
